@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Wall
+  - Spikes
+  - MovingPlatform
+  - RebirthWaypoint
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 2977163505
+    locked: 0
+  - name: LittleRoomBackground
+    uniqueID: 3276724543
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: PlayerLayer
+    uniqueID: 2410908679
+    locked: 0
+  - name: Foreground
+    uniqueID: 3050401939
+    locked: 0
